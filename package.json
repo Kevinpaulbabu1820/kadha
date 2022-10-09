@@ -21,7 +21,7 @@
     "styled-components": "^5.3.0",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://Kevinpaulbabu1820.github.io/kadha.com ",
+  "homepage": "https://Kevinpaulbabu1820.github.io/kadha ",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
