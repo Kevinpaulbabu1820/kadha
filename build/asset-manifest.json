@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kadha.com%20/static/css/main.77c264bb.chunk.css",
+    "main.js": "/kadha.com%20/static/js/main.15f27551.chunk.js",
+    "main.js.map": "/kadha.com%20/static/js/main.15f27551.chunk.js.map",
+    "runtime-main.js": "/kadha.com%20/static/js/runtime-main.f31ab7b5.js",
+    "runtime-main.js.map": "/kadha.com%20/static/js/runtime-main.f31ab7b5.js.map",
+    "static/js/2.f82e6899.chunk.js": "/kadha.com%20/static/js/2.f82e6899.chunk.js",
+    "static/js/2.f82e6899.chunk.js.map": "/kadha.com%20/static/js/2.f82e6899.chunk.js.map",
+    "static/js/3.77f0ab44.chunk.js": "/kadha.com%20/static/js/3.77f0ab44.chunk.js",
+    "static/js/3.77f0ab44.chunk.js.map": "/kadha.com%20/static/js/3.77f0ab44.chunk.js.map",
+    "index.html": "/kadha.com%20/index.html",
+    "static/css/main.77c264bb.chunk.css.map": "/kadha.com%20/static/css/main.77c264bb.chunk.css.map",
+    "static/js/2.f82e6899.chunk.js.LICENSE.txt": "/kadha.com%20/static/js/2.f82e6899.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f31ab7b5.js",
+    "static/js/2.f82e6899.chunk.js",
+    "static/css/main.77c264bb.chunk.css",
+    "static/js/main.15f27551.chunk.js"
+  ]
+}
