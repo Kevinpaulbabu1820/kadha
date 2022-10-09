@@ -92,8 +92,8 @@ export const Ticketbookingform = () => {
     var fulldate = day + "-0" + month + "-" + fullyear;
     e.preventDefault();
     var options = {
-      key: "rzp_test_ijnaOYyX5ybBbr",
-      key_secret: "px9p8lKaMYvbOxJTnGpXqCrV",
+      key: "rzp_test_sNTlEJwCmFogCc",
+      key_secret: "cZYaqGfiNzNgDSjXDy5EdL15",
       amount: ticketcost * 100 * ceats,
       currency: "INR",
       name: "AK CINEMAS ",
