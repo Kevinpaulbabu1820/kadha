@@ -23,7 +23,7 @@
   },
   "homepage": "https://Kevinpaulbabu1820.github.io/kadha ",
   "scripts": {
-    "start": "react-scripts start",
+    "start": "set NODE_OPTIONS=--openssl-legacy-provider && node your-app.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
